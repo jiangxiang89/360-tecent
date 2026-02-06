@@ -1,0 +1,12 @@
+[
+  {
+    "moduleId": "com.tencent.kuikly-open:core:2.15.2-2.1.21",
+    "file": "/Users/mac/AndroidStudioProjects/3qpx/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/com.tencent.kuikly-open-core-2.15.2-2.1.21-appleMain-cinterop/com.tencent.kuikly-open_core-cinterop-kuikly-K62ycg.klib",
+    "sourceSetName": "appleMain"
+  },
+  {
+    "moduleId": "org.jetbrains.kotlinx:atomicfu:0.25.0",
+    "file": "/Users/mac/AndroidStudioProjects/3qpx/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.25.0-iosMain-cinterop/org.jetbrains.kotlinx_atomicfu-cinterop-interop-l0JTDg.klib",
+    "sourceSetName": "iosMain"
+  }
+]
